@@ -1,0 +1,8 @@
+
+来源：
+http://topmanopensource.iteye.com/blog/1911068
+
+经试验，不成功，并且所用的方法和类都是过期的不推荐使用方法
+
+
+
